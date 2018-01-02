@@ -1,0 +1,23 @@
+﻿body {
+     background-color:#FAEBD7;
+     
+}
+
+h1 {
+    font-size:3px;
+}
+
+img {
+    width:400px;
+    height:400px;
+}
+
+div {
+    margin:auto
+}
+
+thead {
+   colspan=5; 
+   font-family:raleway;
+   font-size:64px"
+}

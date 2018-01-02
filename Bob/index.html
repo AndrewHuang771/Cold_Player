@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BOBYAAA</title>
+  <link href="index.css"
+        type="text/css"
+        rel="stylesheet">
+
+<meta http-equiv="refresh" content="250" />
+</head>
+
+<body>
+  <audio autoplay>
+    <source src="bobyaaa.mp3" type="audio/mpeg">
+ 
+  </audio>
+  <audio autoplay>
+    <source src="beats.mp3" type="audio/mpeg">
+  </audio>
+  <div id = "divme">
+    <h1>bobyaaa</h1> 
+    <p>Let's do this.</p>
+  </div>
+        <script>
+        var count = 72;
+        var x = setInterval(function() {
+            if (count < 78) {
+                count = count * 1.1;
+            } else {
+                count = count / 1.1;
+            }
+            var c = count + "px";
+            document.getElementById("divme").style.fontSize = c;
+            console.log(count);
+        }, ((60/88)*1000)); <!-- (60/(bpm))*1000 -->
+
+    </script>
+</body>
+</html>

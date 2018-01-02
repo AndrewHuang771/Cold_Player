@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <link rel="shortcut icon" href="wings.ico"/>
+   <link href="pepe.css"
+        type="text/css"
+        rel="stylesheet">
+   <title>Coldplay</title>
+</head>
+<body>
+    <audio id="glassofwater">
+      <source src="Glassofwater.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="christmaslights">
+      <source src="christmaslights.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="paradise">
+      <source src="paradise.mp3" type="audio/mpeg" />
+    </audio>
+     <audio id="ink">
+      <source src="ink.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="kingdomcome">
+      <source src="kingdomcome.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="magic">
+      <source src="magic.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="viva">
+      <source src="viva.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="everglow">
+      <source src="everglow.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="charliebrown">
+      <source src="charliebrown.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="clocks">
+      <source src="clocks.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="yellow">
+      <source src="yellow.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="waves">
+      <source src="waves.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="heart">
+      <source src="heart.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="shiver">
+      <source src="shiver.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="hardest">
+      <source src="hardest.mp3" type="audio/mpeg" />
+    </audio>
+<div id="negative"><table>
+  <thead>
+     <div id='filler'><th colspan=5><div class=bgp style="margin:0 auto;">Cold<span id="poo";>play </spam><a href="#"><img style="width:90px; height:90px" src="http://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/Button-2-pause-icon.png" onClick="document.getElementById('glassofwater').pause(); 
+        document.getElementById('christmaslights').pause(); 
+        document.getElementById('ink').pause();
+        document.getElementById('kingdomcome').pause(); 
+        document.getElementById('magic').pause();
+        document.getElementById('viva').pause();
+        document.getElementById('everglow').pause();
+        document.getElementById('charliebrown').pause();
+        document.getElementById('clocks').pause();
+        document.getElementById('yellow').pause();
+        document.getElementById('waves').pause();
+        document.getElementById('heart').pause();
+        document.getElementById('shiver').pause();
+        document.getElementById('hardest').pause();
+        document.getElementById('paradise').pause()"/></a></div></div>
+      </th>
+    </thead>
+    <tbody>
+           <tr>
+               <td><a href="#"><img src="http://orig11.deviantart.net/1c0c/f/2012/137/d/6/coldplay___glass_of_water_by_darko137-d504uh2.png" onClick="document.getElementById('glassofwater').play();">
+               <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/8/81/Coldplay_-_Christmas_Lights.JPG" onClick="document.getElementById('christmaslights').play();"/></a> </td>
+               <td><a href="#"><img src="http://www.onlinedrummer.com/wp-content/uploads/2014/07/Paradise-Coldplay-Sheet-Thumb.jpg" onClick="document.getElementById('paradise').play();"/></a></td>
+               <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/Coldplay_-_Ink_%28Official_CD_single_cover%29.jpg" onClick="document.getElementById('ink').play();"/></a></td>
+               <td><a href="#"><img src="https://images.genius.com/b8abe508b3971294b311170b9301e8a1.1000x1000x1.jpg" onClick="document.getElementById('kingdomcome').play();"/></a></td>
+           </tr>
+           <tr>
+               <td><a href="#"><img src="https://images.genius.com/bed060b37dec8fa4eee79aad0784076e.1000x1000x1.jpg" onClick="document.getElementById('magic').play();"/></a></td>
+               <td><a href="#"><img src="http://www.coldplay.com/recordings/art_vivalavida.jpg" onClick="document.getElementById('viva').play();"/></a></td>
+               <td><a href="#"><img src="http://www.rehabonlinemag.com/wp-content/uploads/2015/11/coldplay-a-head-full-of-dreams-album-art-560x560.jpg" onClick="document.getElementById('everglow').play();"/></a></td>
+               <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Coldplay_Charlie_Brown.jpeg" onClick="document.getElementById('charliebrown').play();"/></a></td>
+               <td><a href="#"><img src="http://www.coldplay.com/recordings/art_clocks.jpg" onClick="document.getElementById('clocks').play();"/></a></td>
+           </tr>
+           <tr>
+               <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Yellow_cover_art.JPG" onClick="document.getElementById('yellow').play();"/></a></td>
+               <td><a href="#"><img src="http://www.coldplay.com/recordings/art_arushofbloodtothehead.jpg" onClick="document.getElementById('waves').play();"/></a></td>
+               <td><a href="#"><img src="https://s-media-cache-ak0.pinimg.com/736x/df/4a/47/df4a47048e0dd3b92b6935a316d7ed89--coldplay-dont-let.jpg" onClick="document.getElementById('heart').play();"/></a></td>
+               <td><a href="#"><img src="http://image.iheart.com/EMI3/Thumb_Content/Full_PC/EMI/Mar10/031510/tplay_Audio_20100313000000_NRO/5099921567957/5099921567957_1300x1300_300dpi.jpg" onClick="document.getElementById('shiver').play();"/></a></td>
+               <td><a href="#"><img src="http://1.bp.blogspot.com/-TuEsazhXTpo/VNLv1Yjk17I/AAAAAAAAAiY/6Bx2YFej6s8/s1600/The%2BHardest%2BPart%2B-%2BSingle%2B3.jpg" onClick="document.getElementById('hardest').play();"/></a></td>
+           </tr>
+           <tr>
+               <td> </td>
+               <td> </td>
+               <td> </td>
+           </tr>
+         </tbody>
+   </table>
+</div>
+</body>
+</html>

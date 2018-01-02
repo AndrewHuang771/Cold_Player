@@ -1,0 +1,54 @@
+﻿body {
+    background-color:#0d1a26
+}
+
+img {
+    width:20%;
+    height:20%;
+}
+
+thead { 
+   font-family:raleway;
+   font-size:120px;
+   font-weight:bold;
+}
+
+table {
+    margin:auto;
+}
+
+div {
+    text-align:left;
+    padding-left:20px;
+    padding-top:20px;
+    width:1766px;
+    height:180px;
+    font-family:raleway;
+    font-size:120px;
+    font-weight:bold;
+    color:#428c7d;
+    margin-top:200px;
+}
+
+.bgp {
+    background-image: url("cold.png");
+    position: fixed;
+    /*left: 50%;*/
+    transform: translate(-50%, 0);
+    width:100%;
+}
+
+div span {
+    color:#f0c610
+}
+
+#filler {
+    text-align:left;
+    padding-right:0px;
+    padding-top:20px;
+    width:1770px;
+    height:200px;
+    position:fixed;
+}
+
+
